@@ -15,7 +15,7 @@
 7. dotenv.
 
 ---
-## Instalación
+## Instalation
 
 ```bash
 1. Clone repository
@@ -27,7 +27,7 @@
     npm run start
 ```
 ---
-## Uso
+## Use
 
 ```http
 Enter swagger route.
