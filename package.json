@@ -1,0 +1,22 @@
+{
+  "name": "react-query-example",
+  "version": "1.0.0",
+  "description": "React query testing proyect",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js --ignore db.json"
+  },
+  "author": "Edgar Leonardo Pezoa Soto",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "morgan": "^1.10.0",
+    "nanoid": "^3.1.22",
+    "swagger-jsdoc": "^6.0.9",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
