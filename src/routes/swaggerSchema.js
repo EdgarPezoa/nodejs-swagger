@@ -8,7 +8,7 @@
  *              - title
  *              - image
  *              - company
- *              - platform
+ *              - platforms
  *          properties:
  *              id:
  *                  type: string
@@ -22,7 +22,7 @@
  *              company:
  *                  type: string
  *                  description: The company who develops.
- *              platform:
+ *              platforms:
  *                  type: list
  *                  description: The console where is release.
  *          example:
@@ -30,7 +30,7 @@
  *              title: Mario Bros
  *              image: https://i.ytimg.com/vi/VB6KbX_Bt7M/hqdefault.jpg
  *              company: Nintendo
- *              platform: ["Nintendo", "Super Nintendo", "Nintendo DS"]
+ *              platforms: ["Nintendo", "Super Nintendo", "Nintendo DS"]
  *  parameters:
  *      idParam:
  *          in: path

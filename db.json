@@ -5,7 +5,7 @@
       "title": "Mario Bros",
       "image": "https://i.ytimg.com/vi/VB6KbX_Bt7M/hqdefault.jpg",
       "company": "Nintendo",
-      "platform": [
+      "platforms": [
         "Nintendo",
         "Super Nintendo",
         "Nintendo DS"
@@ -16,17 +16,28 @@
       "title": "Crash Bash",
       "image": "https://images-na.ssl-images-amazon.com/images/I/51ZCTR80K0L._AC_SX466_.jpg",
       "company": "Naugthy dog",
-      "platform": [
+      "platforms": [
         "PlayStation"
       ]
     },
     {
       "id": "zGEN-y_WEO",
       "title": "Halo combat evolved",
-      "image": "https://static.wikia.nocookie.net/halo/images/2/2b/Portada_Halo_CE.jpeg/revision/latest/scale-to-width-down/340?cb=20150822195719&path-prefix=es",
+      "image": "https://store-images.s-microsoft.com/image/apps.36829.65722037288233550.181ab2be-6a0e-4ade-977f-9014db10984e.0ae51c5e-590c-4804-afdb-d21cda63da54?mode=scale&q=90&h=1080&w=1920",
       "company": "Microsoft",
-      "platform": [
+      "platforms": [
         "XBOX"
+      ]
+    },
+    {
+      "id": "WheRV397P2",
+      "title": "Disgaea 5",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81zCLhvOULL._SL1500_.jpg",
+      "company": "Ni5",
+      "platforms": [
+        "Nintendo switch",
+        "PlayStation 4",
+        "PSP VITA"
       ]
     }
   ]
